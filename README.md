@@ -1,7 +1,9 @@
-# [Project_Demo](https://financial-tracker-app.netlify.app/)
+## [Project](https://financial-tracker-app.netlify.app/)
 
-# Redux
+## Redux
 
-# Local Storage
+## Local Storage
 
-# Material UI
+## Material UI
+
+![Demo](/Finance_Tracker_Project.gif)
